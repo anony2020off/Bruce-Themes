@@ -1,12 +1,10 @@
-# 🎨 Bruce-Themes  
-
 ![Bruce Themes](repositório/Readme.png)  
 
 ---
 
 [![Bruce Firmware](https://img.shields.io/badge/Bruce-Firmware-0A66C2?style=for-the-badge&logo=github)](https://github.com/pr3y/Bruce)  
-![GitHub Repo stars](https://img.shields.io/github/stars/NOME_DO_SEU_USUARIO/NOME_DO_SEU_REPOSITORIO?style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/NOME_DO_SEU_USUARIO/NOME_DO_SEU_REPOSITORIO?style=for-the-badge)  
+![GitHub Repo stars](https://img.shields.io/github/stars/wsedits01/Bruce-Themes?style=for-the-badge)  
+![GitHub forks](https://img.shields.io/github/forks/wsedits01/Bruce-Themes?style=for-the-badge)  
 
 ---
 
@@ -14,14 +12,13 @@
 
 ✅ **Multiple Themes** – Several custom themes to personalize Bruce UI  
 ✅ **Custom Boot Animations** – Unique animations for a fresh startup experience  
-✅ **Easy Installation** – Simple drag-and-drop setup  
 ✅ **Optimized for Bruce Firmware** – Designed for maximum compatibility  
 
 ---
 
 ## 📷 Theme Previews  
 
-Aqui estão alguns exemplos de temas disponíveis:  
+Here are some examples of available themes:
 
 ![Theme 1](repositório/theme1.png)  
 ![Theme 2](repositório/theme2.png)  
@@ -33,22 +30,22 @@ Aqui estão alguns exemplos de temas disponíveis:
 
 ### 🖌️ Installing a Theme  
 
-1. **Coloque a pasta "Theme" na raiz do LittleFS** *(não coloque no cartão SD, pois isso pode causar bugs gráficos com o tema)*.  
-2. Acesse **Config → UI Theme** e selecione o arquivo **"Theme.json"**.  
-3. Pronto! O tema foi instalado com sucesso.  
+1. **Put the "Theme" folder in the root of LittleFS** *(do not put it on the SD card, as this can cause graphic bugs with the theme)*.
+2. Go to **Config → UI Theme** and select the file **"Theme.json"**.
+3. Ready! The theme was successfully installed.
 
 ### 🎬 Changing the Boot Animation  
 
-Atualmente, há duas opções de animação de boot disponíveis:  
+There are currently two boot animation options available: 
 
-- **Animação Dedsec editada por Wendell Silva**  
-- **Animação Bruce criada por Ali Akkok**  
+- **Dedsec animation edited by Wendell Silva**
+- **Bruce animation created by Ali Akkok** 
 
-Para trocar a animação de boot:  
+To change the boot animation:
 
-1. Escolha o arquivo **"boot.gif"** da animação desejada.  
-2. Copie o arquivo para a **raiz do LittleFS ou do cartão SD**.  
-3. Reinicie o dispositivo para aplicar a nova animação.  
+1. Choose the **"boot.gif"** file of the desired animation.
+2. Copy the file to the **root of LittleFS or SD card**.
+3. Restart the device to apply the new animation.
 
 ---
 
