@@ -49,15 +49,15 @@ To change the boot animation:
 
 ---
 
-## 👨‍💻 Contributors  
+## 👨‍💻 My Special Thanks to:
+
+• **Bruce's entire development team**
+
+• **Ali Akkok**
 
 This project is maintained by community contributors. We thank everyone who helps improve the themes and animations!
 
 If you want to contribute, feel free to send **pull requests** with new themes or improvements!
-
-## My special thanks to:
-• **Bruce's entire development team**
-• **Ali Akkok**
 
 ---
 
