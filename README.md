@@ -55,6 +55,10 @@ This project is maintained by community contributors. We thank everyone who help
 
 If you want to contribute, feel free to send **pull requests** with new themes or improvements!
 
+## My special thanks to:
+• **Bruce's entire development team**
+• **Ali Akkok**
+
 ---
 
 🔹 *This repository is focused only on Bruce Firmware customization. For information about the original firmware, visit the [official repository](https://github.com/pr3y/Bruce).*  
