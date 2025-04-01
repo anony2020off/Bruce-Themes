@@ -53,7 +53,7 @@ To change the boot animation:
 
 • **Bruce's entire development team**
 
-• [@AliAkkok](https://github.com/koi12)
+• **[Ali Akkok]**(https://github.com/koi12)
 
 This project is maintained by community contributors. We thank everyone who helps improve the themes and animations!
 
