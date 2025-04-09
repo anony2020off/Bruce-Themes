@@ -4,7 +4,6 @@
 
 [![Bruce Firmware](https://img.shields.io/badge/Bruce-Firmware-0A66C2?style=for-the-badge&logo=github)](https://github.com/pr3y/Bruce)  
 ![GitHub Repo stars](https://img.shields.io/github/stars/wsedits01/Bruce-Themes?style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/wsedits01/Bruce-Themes?style=for-the-badge)  
 
 ---
 
