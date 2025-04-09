@@ -20,9 +20,9 @@
 
 Here are some examples of available themes:
 
-![Theme 1](repositório/theme1.png)  
-![Theme 2](repositório/theme2.png)  
-![Theme 3](repositório/theme3.png)  
+![Theme 1](repositório/theme1.jpg)  
+![Theme 2](repositório/theme2.jpg)  
+![Theme 3](repositório/theme3.jpg)  
 
 ---
 
