@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="repositório/icon.png" width="200"/>
+</p>
+
+<h1 align="center">Bruce Themes</h1>
+
+<p align="center">
+  Uma coleção de temas e animações de boot para o firmware Bruce, criada para aprimorar sua experiência visual nos dispositivos compatíveis.
+</p>
+
+
 ![Bruce Themes](repositório/Readme.png)  
 
 ---
