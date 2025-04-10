@@ -8,9 +8,6 @@
   Uma coleção de temas e animações de boot para o firmware Bruce, criada para aprimorar sua experiência visual nos dispositivos compatíveis.
 </p>
 
-
-![Bruce Themes](repositório/Readme.png)  
-
 ---
 
 [![Bruce Firmware](https://img.shields.io/badge/Bruce-Firmware-0A66C2?style=for-the-badge&logo=github)](https://github.com/pr3y/Bruce)  
