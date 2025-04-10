@@ -5,7 +5,7 @@
 <h1 align="center">Bruce Themes</h1>
 
 <p align="center">
-  Uma coleção de temas e animações de boot para o firmware Bruce, criada para aprimorar sua experiência visual nos dispositivos compatíveis.
+  A collection of themes and boot animations for Bruce Firmware, created to enhance your visual experience on compatible devices.
 </p>
 
 ---
