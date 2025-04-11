@@ -42,6 +42,11 @@ Here are some examples of available themes:
   <b>Orange By Ali Akkok</b>
 </p>
 
+<p align="center">
+  <img src="repositório/theme4.png" width="250"/><br>
+  <b>Orange By Tsoucky</b>
+</p>
+
 ---
 
 ## 📥 Installation  
