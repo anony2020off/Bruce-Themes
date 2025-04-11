@@ -28,12 +28,12 @@
 Here are some examples of available themes:
 
 <p align="center">
-  <img src="repositório/theme1.png" width="250"/><br>
+  <img src="repositório/theme1.jpg" width="250"/><br>
   <b>Black V2</b>
 </p>
 
 <p align="center">
-  <img src="repositório/theme2.png" width="250"/><br>
+  <img src="repositório/theme2.jpg" width="250"/><br>
   <b>Black V1</b>
 </p>
 
