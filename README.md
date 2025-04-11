@@ -63,6 +63,7 @@ There are currently two boot animation options available:
 
 - **Dedsec animation edited by Wendell Silva**
 - **Bruce animation created by Ali Akkok** 
+- **Flipper-Inspired Bruce animation created by Ali Akkok** 
 
 To change the boot animation:
 
