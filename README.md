@@ -37,6 +37,11 @@ Here are some examples of available themes:
   <b>Black V1</b>
 </p>
 
+<p align="center">
+  <img src="repositório/theme3.jpg" width="250"/><br>
+  <b>Orange By Ali Akkok</b>
+</p>
+
 ---
 
 ## 📥 Installation  
