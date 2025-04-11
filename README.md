@@ -59,7 +59,7 @@ Here are some examples of available themes:
 
 ### 🎬 Changing the Boot Animation  
 
-There are currently two boot animation options available: 
+There are currently three boot animation options available: 
 
 - **Dedsec animation edited by Wendell Silva**
 - **Bruce animation created by Ali Akkok** 
