@@ -79,6 +79,8 @@ To change the boot animation:
 
 • **[Ali Akkok](https://github.com/aliakkok)**
 
+• **Tsoucky**
+
 This project is maintained by community contributors. We thank everyone who helps improve the themes and animations!
 
 If you want to contribute, feel free to send **pull requests** with new themes or improvements!
