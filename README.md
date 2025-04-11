@@ -27,9 +27,15 @@
 
 Here are some examples of available themes:
 
-![Theme 1](repositório/theme1.jpg)  
-![Theme 2](repositório/theme2.jpg)  
-![Theme 3](repositório/theme3.jpg)  
+<p align="center">
+  <img src="themes/theme1.png" width="250"/><br>
+  <b>Black V2</b>
+</p>
+
+<p align="center">
+  <img src="themes/theme2.png" width="250"/><br>
+  <b>Black V1</b>
+</p>
 
 ---
 
