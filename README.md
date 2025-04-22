@@ -68,7 +68,7 @@ There are currently three boot animation options available:
 To change the boot animation:
 
 1. Choose the **"boot.gif"** file of the desired animation.
-"2. Resize it to your device's resolution."
+2. Resize it to your device's resolution.
 3. Copy the file to the **root of LittleFS or SD card**.
 4. Restart the device to apply the new animation.
 
