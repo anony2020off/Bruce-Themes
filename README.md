@@ -18,7 +18,7 @@
 ## ✨ Features  
 
 ✅ **Multiple Themes** – Several custom themes to personalize Bruce UI  
-✅ **Custom Boot Animations** – Unique animations for a fresh startup experience  
+✅ **Custom Boot Animations** – Unique animations for a fresh startup experience (you have to resize them)
 ✅ **Optimized for Bruce Firmware** – Designed for maximum compatibility  
 
 ---
@@ -68,8 +68,9 @@ There are currently three boot animation options available:
 To change the boot animation:
 
 1. Choose the **"boot.gif"** file of the desired animation.
-2. Copy the file to the **root of LittleFS or SD card**.
-3. Restart the device to apply the new animation.
+"2. Resize it to your device's resolution."
+3. Copy the file to the **root of LittleFS or SD card**.
+4. Restart the device to apply the new animation.
 
 ---
 
