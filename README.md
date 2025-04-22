@@ -42,7 +42,7 @@ Here are some examples of available themes:
 
 <h2 align="center">
     <h2>Orange By Ali Akkok</h2>
-  <img src="Repository/orange_akkok.jpg" width="250"/><br>
+  <img src="Repository/orange-akkok.jpg" width="250"/><br>
 </p>
 
 <h2 align="center">
