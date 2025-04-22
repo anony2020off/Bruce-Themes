@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="repositório/icon.png" width="200"/>
+  <img src="repository/icon.png" width="200"/>
 </p>
 
 <h1 align="center">Bruce Themes</h1>
