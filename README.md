@@ -28,22 +28,22 @@
 Here are some examples of available themes:
 
 <p align="center">
-  <img src="repositório/theme1.jpg" width="250"/><br>
+  <img src="Repository/theme1.jpg" width="250"/><br>
   <b>Black V2</b>
 </p>
 
 <p align="center">
-  <img src="repositório/theme2.jpg" width="250"/><br>
+  <img src="Repository/theme2.jpg" width="250"/><br>
   <b>Black V1</b>
 </p>
 
 <p align="center">
-  <img src="repositório/theme3.jpg" width="250"/><br>
+  <img src="Repository/theme3.jpg" width="250"/><br>
   <b>Orange By Ali Akkok</b>
 </p>
 
 <p align="center">
-  <img src="repositório/theme4.png" width="250"/><br>
+  <img src="Repository/theme4.png" width="250"/><br>
   <b>Orange By Tsoucky</b>
 </p>
 
