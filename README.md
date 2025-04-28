@@ -28,24 +28,26 @@
 
 Here are some examples of available themes:
 
-<p align="center">
-  <img src="Repository/theme1.jpg" width="250"/><br>
-  <b>Black V2</b>
+<h2 align="center">
+    <h2>Black V1</h2>
+  <img src="Repository/blackv1_t-embed.jpg" width="250"/><br>
+  <img src="Repository/blackv1_m5stickc2.jpg" width="250"/><br>
 </p>
 
-<p align="center">
-  <img src="Repository/theme2.jpg" width="250"/><br>
-  <b>Black V1</b>
+<h2 align="center">
+    <h2>Black V2</h2>
+  <img src="Repository/blackv2_t-embed.jpg" width="250"/><br>
+  <img src="Repository/blackv2_m5stickc2.jpg" width="250"/><br>
 </p>
 
-<p align="center">
-  <img src="Repository/theme3.jpg" width="250"/><br>
-  <b>Orange By Ali Akkok</b>
+<h2 align="center">
+    <h2>Orange By Ali Akkok</h2>
+  <img src="Repository/orange-akkok.jpg" width="250"/><br>
 </p>
 
-<p align="center">
-  <img src="Repository/theme4.png" width="250"/><br>
-  <b>Orange By Tsoucky</b>
+<h2 align="center">
+    <h2>Orange By Tsoucky</h2>
+  <img src="Repository/orange_tsoucky.png" width="250"/><br>
 </p>
 
 ---
