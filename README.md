@@ -10,23 +10,27 @@
 
 ---
 
-[![Bruce Firmware](https://img.shields.io/badge/Bruce-Firmware-0A66C2?style=for-the-badge&logo=github)](https://github.com/pr3y/Bruce)  
-![GitHub Repo stars](https://img.shields.io/github/stars/wsedits01/Bruce-Themes?style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/wsedits01/Bruce-Themes?style=for-the-badge)  
+[![Bruce Firmware](https://img.shields.io/badge/Bruce-Firmware-0A66C2?style=for-the-badge&logo=github)](https://github.com/pr3y/Bruce)
+![GitHub Repo stars](https://img.shields.io/github/stars/wsedits01/Bruce-Themes?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/wsedits01/Bruce-Themes?style=for-the-badge)
 
 ---
 
-## ✨ Features  
+## ✨ Features
 
-✅ **Multiple Themes** – Several custom themes to personalize Bruce UI  
+✅ **Multiple Themes** – Several custom themes to personalize Bruce UI
 ✅ **Custom Boot Animations** – Unique animations for a fresh startup experience (you have to resize them)
-✅ **Optimized for Bruce Firmware** – Designed for maximum compatibility  
+✅ **Optimized for Bruce Firmware** – Designed for maximum compatibility
 
 ---
 
-## 📷 Theme Previews  
+## 📷 Theme Previews
 
 Here are some examples of available themes:
+<h2 align="center">
+    <h2>Orange By Unkn0wn</h2>
+  <img src="Repository/orange_unkn0wn.jpg" width="250"/><br>
+</p>
 
 <h2 align="center">
     <h2>Black V1</h2>
@@ -52,21 +56,21 @@ Here are some examples of available themes:
 
 ---
 
-## 📥 Installation  
+## 📥 Installation
 
-### 🖌️ Installing a Theme  
+### 🖌️ Installing a Theme
 
 1. **Put the "Theme" folder in the root of LittleFS** *(do not put it on the SD card, as this can cause graphic bugs with the theme)*.
 2. Go to **Config → UI Theme** and select the file **"Theme.json"**.
 3. Ready! The theme was successfully installed.
 
-### 🎬 Changing the Boot Animation  
+### 🎬 Changing the Boot Animation
 
-There are currently three boot animation options available: 
+There are currently three boot animation options available:
 
 - **Dedsec animation edited by Wendell Silva**
-- **Bruce animation created by Ali Akkok** 
-- **Flipper-Inspired Bruce animation created by Ali Akkok** 
+- **Bruce animation created by Ali Akkok**
+- **Flipper-Inspired Bruce animation created by Ali Akkok**
 
 To change the boot animation:
 
@@ -83,6 +87,8 @@ To change the boot animation:
 
 • **[Ali Akkok](https://github.com/aliakkok)**
 
+• **[Unkn0wn](https://github.com/anony2020off)**
+
 • **Tsoucky**
 
 This project is maintained by community contributors. We thank everyone who helps improve the themes and animations!
@@ -91,4 +97,4 @@ If you want to contribute, feel free to send **pull requests** with new themes o
 
 ---
 
-🔹 *This repository is focused only on Bruce Firmware customization. For information about the original firmware, visit the [official repository](https://github.com/pr3y/Bruce).*  
+🔹 *This repository is focused only on Bruce Firmware customization. For information about the original firmware, visit the [official repository](https://github.com/pr3y/Bruce).*
